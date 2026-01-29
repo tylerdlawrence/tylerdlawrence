@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Tyler</h1>
-<h3 align="center">An ambitious and curious self taught software developer</h3>
+<h3 align="left">Hi, I'm Tyler</h3>
+<h3 align="left">An ambitious and curious self taught software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tylerdlawrence&label=Profile%20views&color=0e75b6&style=flat" alt="tylerdlawrence" /> </p>
 
