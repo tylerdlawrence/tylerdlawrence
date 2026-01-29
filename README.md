@@ -1,7 +1,7 @@
 <h3 align="left">Hi, I'm Tyler</h3>
 <h3 align="left">An ambitious and curious self taught software developer</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/tylerdlawrence=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/tylerdlawrenceryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tylerdlawrence&label=Profile%20views&color=0e75b6&style=flat" alt="tylerdlawrence" /> </p>
 
