@@ -2,9 +2,9 @@
 
 ### Always thinking
 
-- Working on **Feedit: RSS Reader**
+- Working on **[Feedit: RSS Reader](https://apps.apple.com/us/app/feedit/id6444137580)**
 
-- **[My experiences](https://1drv.ms/b/c/8f442b1fb50fbb31/IQDg5dnDvNUtTJ9kKoCLmmYSAaaPVJbcmvYOlcg_3Fa9ef8)**
+- **[See my professional experiences](https://1drv.ms/b/c/8f442b1fb50fbb31/IQDg5dnDvNUtTJ9kKoCLmmYSAaaPVJbcmvYOlcg_3Fa9ef8)**
 
 - Reach me at **t.d.lawrence@icloud.com**
 
