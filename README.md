@@ -4,11 +4,10 @@
 
 - Working on **Feedit: RSS Reader**
 
-- Reach me at **t.d.lawrence@icloud.com**
-
--**[Know about my experiences](https://1drv.ms/b/c/8f442b1fb50fbb31/IQDg5dnDvNUtTJ9kKoCLmmYSAaaPVJbcmvYOlcg_3Fa9ef8)**
+- **[My experiences](https://1drv.ms/b/c/8f442b1fb50fbb31/IQDg5dnDvNUtTJ9kKoCLmmYSAaaPVJbcmvYOlcg_3Fa9ef8)**
 
 <h3 align="left">Connect with me:</h3>
+- Reach me at **t.d.lawrence@icloud.com**
 <p align="left">
 <a href="https://github.com/tylerdlawrence" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tylerdlawrence" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tylerdlawrence" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tylerdlawrence" height="30" width="40" /></a>
