@@ -2,10 +2,6 @@
 
 ### Always thinking
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tylerdlawrence&label=Profile views&color=0e75b6&style=flat" alt="tylerdlawrence" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tylerdlawrence" alt="tylerdlawrence" /></a> </p>
-
 - Working on **Feedit: RSS Reader**
 
 - Reach me at **t.d.lawrence@icloud.com**
