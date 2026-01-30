@@ -7,7 +7,7 @@
 - Reach me at **t.d.lawrence@icloud.com**
 
 - Know about my experiences
-**[https://1drv.ms/b/c/8f442b1fb50fbb31/IQDg5dnDvNUtTJ9kKoCLmmYSAaaPVJbcmvYOlcg_3Fa9ef8](Resume)**
+**[Resume](https://1drv.ms/b/c/8f442b1fb50fbb31/IQDg5dnDvNUtTJ9kKoCLmmYSAaaPVJbcmvYOlcg_3Fa9ef8)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
